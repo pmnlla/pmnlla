@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pomonella!
-- 👀 I’m interested in hardware hacking and exploit writing (nothing that I know how to do lmao)
+- 👀 I have no clue what to put here since I don't really use Github, so i'll just put this.
 <!--- 🌱 I’m currently learning ... nothing. I'm waiting for parts to arrive.
  - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... --!>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pom,</h1>
+<h1 align="center">Hi 👋, I'm pom.</h1>
 <h3 align="center">A backend developer / photographer / jack-of-all-trades.</h3>
 
 - 🔭 I’m currently working on **several things, namely** [nkctl](https://github.com/NarukamiGuys/narukamictl) and [flashbox](https://github.com/pmnlla/flashbox)

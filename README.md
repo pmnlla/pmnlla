@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **several things, namely** [nkctl](https://github.com/NarukamiGuys/narukamictl) and [flashbox](https://github.com/pmnlla/flashbox)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently **not** learning **Rust**
 
 - 👨‍💻 All of my projects are (soon to be) available at [pomonella.dev](pomonella.dev)
 

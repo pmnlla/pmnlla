@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **not** learning **Rust**
 
-- 👨‍💻 All of my projects are (soon to be) available at [pomonella.dev](pomonella.dev)
+- Ill probably make a prints shop soon when I get more than 2 pictures I like [pomonella.dev](pomonella.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/273483763521028098)](https://discord.com/users/273483763521028098)
 

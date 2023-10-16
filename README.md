@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm pom.</h1>
 <h3 align="center">A backend developer / photographer / wannabe engineer / jack-of-all-trades.</h3>
 
-- 🔭 I’m currently working on **several things, namely** [nkctl](https://github.com/NarukamiGuys/narukamictl) and [flashbox](https://github.com/pmnlla/flashbox)
-
-- 🌱 I’m currently **not** learning **Rust**
-
-- Ill probably make a prints shop soon when I get more than 2 pictures I like [pomonella.dev](pomonella.dev)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/273483763521028098)](https://discord.com/users/273483763521028098)
 
 <h3 align="right">Languages and Tools:</h3>
